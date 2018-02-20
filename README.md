@@ -16,7 +16,7 @@ Last PoW - 10000<br>
 Diif change Target - 1 Block<br>
 Tx confs - 20 blocks<br>
 Pos - 35% per year<br>
-Tot Coins - 51851852<br>
+Max Coins - Unlimited<br>
 Rpc Port - 12502<br>
 Block Reward - 100<br>
 addnode=94.23.216.214<br>
